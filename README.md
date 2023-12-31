@@ -1,8 +1,9 @@
 # DriveSerial
 -------------
-PC에 장착되어 있는 디스크 드라이브 장치의 고유 번호를 가져오는 프로그램입니다.
+## PC에 장착되어 있는 디스크 드라이브 장치의 고유 번호를 가져오는 프로그램입니다.
 -------------
 
+### 원리
 ```
 wmic path Win32_LogicalDiskToPartition
 ```
@@ -19,4 +20,5 @@ wmic diskdrive get index, serialnumber
 
 
 -------------
+
 ![다운로드](https://media.discordapp.net/attachments/1025908716316393484/1190961264986439730/2.png?ex=65a3b41c&is=65913f1c&hm=32c015ab7688457383a17e507805637b7465cc80acf02aa1e9edeb46b79e2f66&=&format=webp&quality=lossless&width=918&height=480)
