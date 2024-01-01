@@ -16,7 +16,7 @@ antecedent, dependent 컬럼의 데이터를 통해 디스크 드라이브의 De
 wmic diskdrive get index, serialnumber
 ```
 드라이브의 DeviceID, SerialNumber 정보를 가져옵니다.
-![다운로드](https://media.discordapp.net/attachments/1025908716316393484/1190960698004606986/1.png?ex=65a3b395&is=65913e95&hm=c076568b27ea58838f8a023a2dde9ce9272162aa88b5d49b19f42c16dc9017e9&=&format=webp&quality=lossless&width=916&height=516)
+![다운로드](https://media.discordapp.net/attachments/1025908716316393484/1191182902331969546/1.png?ex=65a48287&is=65920d87&hm=a9090cc687805e12fcfba382adfd3360a4d519c704144e33838842cdc8425c48&=&format=webp&quality=lossless&width=916&height=516)
 
 
 -------------
